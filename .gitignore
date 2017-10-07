@@ -23,7 +23,7 @@
 out/
 
 # Intellij #
-.idea/
+.idea/*
 *.iml
 *.iws
 
