@@ -1,7 +1,8 @@
 .idea/*
 
-*.class
+*.class/
 
-*.war
-*.jar
-*.ear
+*.war/
+*.jar/
+*.ear/
+out/
